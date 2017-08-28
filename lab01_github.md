@@ -1,16 +1,5 @@
-Create a repo in @nolauren.
 
-Call it: introdh2017
-
-- syllabus
-- github_assignment
-- readme : This repository is will be where you post all of your assignments for this semester. 
-
-
-
--------------------
-
-Github
+# Github Lab
 
 Markdown is a way to write content for the web. 
 Plain markdown is just a very simple format for marking up
