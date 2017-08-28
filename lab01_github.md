@@ -1,4 +1,5 @@
-Create a repo in @nolauren
+Create a repo in @nolauren.
+
 Call it: introdh2017
 
 - syllabus
