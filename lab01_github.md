@@ -31,7 +31,7 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 
 ![alt text](https://media.newyorker.com/photos/5909647d2179605b11ad5ecc/master/w_767,c_limit/100906_friedlander-1_p465.jpg "Friedland")
 
-["Lee Friedlander: American Icon". The New Yorker.] September 2, 2010. (https://media.newyorker.com/photos/5909647d2179605b11ad5ecc/master/w_767,c_limit/100906_friedlander-1_p465.jpg)
+["Lee Friedlander: American Icon". The New Yorker.(https://media.newyorker.com/photos/5909647d2179605b11ad5ecc/master/w_767,c_limit/100906_friedlander-1_p465.jpg) September 2, 2010. 
 
 ## Class
 
