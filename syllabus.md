@@ -10,7 +10,7 @@ Fall 2017 | 1:30-2:45 | MRC LL1 - Learn Lab
   
 [ltilton@richmond.edu](mailto:lilton@richmond.edu) | 
 184 Boatwright Memorial Library | 
-Office Hours: MT 2:30-4:00
+Office Hours: 
   ------------------------------ ----------------------------------------------------
 
 <span>**Course Description:**</span>
@@ -79,17 +79,17 @@ behind the University of Richmond firewall).
         Siemens, and John Unsworth. Oxford: Blackwell, 2004.](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1)
 
     -   [Seefeldt, Douglas and William Thomas. “What is Digital History?”
-        Perspectives on History. May 2009.] (https://www.historians.org/publications-and-directories/perspectives-on-history/may-2009/intersections-history-and-new-media/what-is-digital-history)
+        Perspectives on History. May 2009.](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2009/intersections-history-and-new-media/what-is-digital-history)
 
     -   [Fitzpatrick, Kathleen. “The Humanities, Done Digitally.” Debates
         in the Digital Humanities. 2012.](http://dhdebates.gc.cuny.edu/debates/text/30)
 
     -   [Berry, David. “The Computational Turn: Thinking About the
-        Digital Humanities.” Culture Machine Vol 12, 2011.] (http://www.culturemachine.net/index.php/cm/article/viewarticle/440)
+        Digital Humanities.” Culture Machine Vol 12, 2011.](http://www.culturemachine.net/index.php/cm/article/viewarticle/440)
 
 -   2017-09-04: Humanities ‘data’
 
-    -   [Rosenberg, Daniel. “Data before the Fact.” 2013.] (http://static1.1.sqspcdn.com/static/f/1133095/23310656/1376447540493/Rosenburg_RawData.pdf)
+    -   [Rosenberg, Daniel. “Data before the Fact.” 2013.](http://static1.1.sqspcdn.com/static/f/1133095/23310656/1376447540493/Rosenburg_RawData.pdf)
 
     -   [Posner, Miriam. “Humanities Data: A Necessary Contradiction”](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
 
@@ -107,7 +107,7 @@ behind the University of Richmond firewall).
 
 
     -   [Wickham, Hadley. “Tidy Data.” Journal of Statistical Software.
-        Vol 59. Issue 10. August 2014.] (http://vita.had.co.nz/papers/tidy-data.pdf)
+        Vol 59. Issue 10. August 2014.](http://vita.had.co.nz/papers/tidy-data.pdf)
 
 
 -   2017-09-13: Practicum: Tidy Data
@@ -135,14 +135,14 @@ Part 2: Text Analysis
 
     -   [Meeks, Elijah and Scott Weingart. “The Digital Humanities
         Contribution to Topic Modeling.” Journal of Digital Humanities.
-        Vol 2. No. 1 Winter 2012.] (http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
+        Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
 
     -   [Topic Modeling Martha Ballard’s Diary – Introduction and The
         Series (Read all three parts.)](http://www.cameronblevins.org/martha-ballards-diary/)
 
      -   [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of
         PMLA Teach Us About the History of Literary Scholarship?”
-        Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.] (http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/)  
+        Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/)  
 
 
 
@@ -151,7 +151,7 @@ Part 2: Text Analysis
 -   2017-10-02: Topic Modeling II
         
     -  Read and explore [Mining The Dispatch.](http://dsl.richmond.edu/dispatch/) 
-    and [Signs at 40] (http://signsat40.signsjournal.org/)
+    and [Signs at 40](http://signsat40.signsjournal.org/)
 
 -   2017-10-04: Practicum: Using Mallet II - Modeling with JStor Data
 
@@ -183,7 +183,7 @@ Part 3: Spatial DH
     -   [Shnayder, Evgenia. “A Data Model for Spatial History.” November
         15, 2010.](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=23)
         
- -   In class: Explore [American Panorama] (http://dsl.richmond.edu/panorama/)
+ -   In class: Explore [American Panorama](http://dsl.richmond.edu/panorama/)
 
 -    2017-10-20: Assignment 2 - Text Analysis Assignment
 
@@ -208,10 +208,10 @@ Part 4: Network Analysis
 
     -   Newman, Mark. Networks: An Introduction. [Chapter 1: Introduction](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199206650.001.0001/acprof-9780199206650-chapter-1)
 
-     -   [Weingart, Scott. “Demystifying Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No. 1. Winter 2011.] (http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart)
+     -   [Weingart, Scott. “Demystifying Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No. 1. Winter 2011.](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart)
 
     
-    - Explore [Linked Jazz](https://linkedjazz.org/)  and [Signs at 40](http://signsat40.signsjournal.org/cocitation/). We will discuss in class. We will also look at [Wikipedia](xefer.com/WIKIPEDIA)
+    - Explore [Linked Jazz](https://linkedjazz.org/) and [Signs at 40](http://signsat40.signsjournal.org/cocitation/). We will discuss in class. We will also look at [Wikipedia](xefer.com/WIKIPEDIA)
     
 
 -   2017-11-08: Practicum: Gephi Part I
@@ -227,7 +227,7 @@ Part 4: Network Analysis
 -   2016-11-15: Practicum: Gephi Part II 
 
 
-Part 5: \#transformDH
+Part 5: \#transformDH / Grants
 
 -   2017-11-27: Critical DH
 
