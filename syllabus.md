@@ -66,7 +66,7 @@ digitally, for free, from the course website (some may require you to be
 behind the University of Richmond firewall).
 
 <span>**Schedule:**</span>
-*Part 1: What is Digital Humanities?*
+*Part 1: Defining DH and Data*
 
 -   2017-08-28:  Introductions
     - Explore the following: Mining The Dispatch, Colored Conventions, Mapping Inequality, Linked Jazz
@@ -93,15 +93,13 @@ behind the University of Richmond firewall).
 
     -   [Posner, Miriam. “Humanities Data: A Necessary Contradiction”](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
 
-    -  Data Collection!
-
 
 -   2017-09-06: 
 
     -   [Schöch, Christof. “Big? Smart? Clean? Messy? Data in
         the Humanities.” Journal of Digital Humanities. Summer 2013.](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
 
-    -  Practicum: Wranging Data 
+    -  Practicum: Collecting and Wranging Data 
 
 -   2017-09-11: Methods for computational analysis
 
