@@ -163,7 +163,7 @@ Part 2: Text Analysis
  
 -   2017-10-11: Final Project Workshop I
 
-    - Read the following grants: SELECT TWO GRANTS***** 
+    - Read the [examples grants available through the NEH](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants). 
 
 -   2017-10-16: Fall Study Break 
 
@@ -181,7 +181,7 @@ Part 3: Spatial DH
     -   [Shnayder, Evgenia. “A Data Model for Spatial History.” November
         15, 2010.](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=23)
         
- -   In class: Explore [American Panorama](http://dsl.richmond.edu/panorama/)
+    -   Explore [American Panorama](http://dsl.richmond.edu/panorama/)
 
 -    2017-10-20: Assignment 2 - Text Analysis Assignment
 
@@ -209,7 +209,7 @@ Part 4: Network Analysis
      -   [Weingart, Scott. “Demystifying Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No. 1. Winter 2011.](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart)
 
     
-    - Explore [Linked Jazz](https://linkedjazz.org/) and [Signs at 40](http://signsat40.signsjournal.org/cocitation/). We will discuss in class. We will also look at [Wikipedia](xefer.com/WIKIPEDIA)
+    - Explore [Linked Jazz](https://linkedjazz.org/), [Signs at 40](http://signsat40.signsjournal.org/cocitation/), and  [Wikipedia](xefer.com/WIKIPEDIA)
     
 
 -   2017-11-08: Practicum: Gephi Part I
