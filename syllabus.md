@@ -10,7 +10,7 @@ Fall 2017 | 1:30-2:45 | MRC LL1 - Learn Lab
   
 [ltilton@richmond.edu](mailto:lilton@richmond.edu) | 
 184 Boatwright Memorial Library | 
-Office Hours: 
+Office Hours: MW 3:00-4:00
   ------------------------------ ----------------------------------------------------
 
 <span>**Course Description:**</span>
