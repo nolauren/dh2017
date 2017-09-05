@@ -9,8 +9,8 @@ Store the data set as tidy data as discussed in class.  The data set must:
 - The smaller table must have at least 5 elements.
 - Contain at least two numeric variables.
 - Contain at least one date variable.
-- Contain at least three categorical variable. 
-- Contain at least two character variable.
+- Contain at least three categorical variables. 
+- Contain at least two character variables.
 
 Submit your data as .csv files  (one for each table) in the GitHub repository.
 Please name them "table1.csv" and "table2.csv".
