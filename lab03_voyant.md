@@ -138,3 +138,5 @@ Let's take a look at the terms used by Washington and Obama.
 - Do we see particular phrases? 
 
 ##### Explore!
+
+Interested in looking at all of the State of the Union addresses? Here you [go](https://programminghistorian.org/assets/basic-text-processing-in-r/sotu_text.zip)! 
