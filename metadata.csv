@@ -1,0 +1,237 @@
+president,year,party,sotu_type,txt
+George Washington,1790,Nonpartisan,speech,1
+George Washington,1790,Nonpartisan,speech,2
+George Washington,1791,Nonpartisan,speech,3
+George Washington,1792,Nonpartisan,speech,4
+George Washington,1793,Nonpartisan,speech,5
+George Washington,1794,Nonpartisan,speech,6
+George Washington,1795,Nonpartisan,speech,7
+George Washington,1796,Nonpartisan,speech,8
+John Adams,1797,Federalist,speech,9
+John Adams,1798,Federalist,speech,10
+John Adams,1799,Federalist,speech,11
+John Adams,1800,Federalist,speech,12
+Thomas Jefferson,1801,Democratic-Republican,written,13
+Thomas Jefferson,1802,Democratic-Republican,written,14
+Thomas Jefferson,1803,Democratic-Republican,written,15
+Thomas Jefferson,1804,Democratic-Republican,written,16
+Thomas Jefferson,1805,Democratic-Republican,written,17
+Thomas Jefferson,1806,Democratic-Republican,written,18
+Thomas Jefferson,1807,Democratic-Republican,written,19
+Thomas Jefferson,1808,Democratic-Republican,written,20
+James Madison,1809,Democratic-Republican,written,21
+James Madison,1810,Democratic-Republican,written,22
+James Madison,1811,Democratic-Republican,written,23
+James Madison,1812,Democratic-Republican,written,24
+James Madison,1813,Democratic-Republican,written,25
+James Madison,1814,Democratic-Republican,written,26
+James Madison,1815,Democratic-Republican,written,27
+James Madison,1816,Democratic-Republican,written,28
+James Monroe,1817,Democratic-Republican,written,29
+James Monroe,1818,Democratic-Republican,written,30
+James Monroe,1819,Democratic-Republican,written,31
+James Monroe,1820,Democratic-Republican,written,32
+James Monroe,1821,Democratic-Republican,written,33
+James Monroe,1822,Democratic-Republican,written,34
+James Monroe,1823,Democratic-Republican,written,35
+James Monroe,1824,Democratic-Republican,written,36
+John Quincy Adams,1825,Democratic-Republican,written,37
+John Quincy Adams,1826,Democratic-Republican,written,38
+John Quincy Adams,1827,Democratic-Republican,written,39
+John Quincy Adams,1828,Democratic-Republican,written,40
+Andrew Jackson,1829,Democratic,written,41
+Andrew Jackson,1830,Democratic,written,42
+Andrew Jackson,1831,Democratic,written,43
+Andrew Jackson,1832,Democratic,written,44
+Andrew Jackson,1833,Democratic,written,45
+Andrew Jackson,1834,Democratic,written,46
+Andrew Jackson,1835,Democratic,written,47
+Andrew Jackson,1836,Democratic,written,48
+Martin Van Buren,1837,Democratic,written,49
+Martin Van Buren,1838,Democratic,written,50
+Martin Van Buren,1839,Democratic,written,51
+Martin Van Buren,1840,Democratic,written,52
+John Tyler,1841,Whig,written,53
+John Tyler,1842,Whig,written,54
+John Tyler,1843,Whig,written,55
+John Tyler,1844,Whig,written,56
+James K. Polk,1845,Democratic,written,57
+James K. Polk,1846,Democratic,written,58
+James K. Polk,1847,Democratic,written,59
+James K. Polk,1848,Democratic,written,60
+Zachary Taylor,1849,Whig,written,61
+Millard Fillmore,1850,Whig,written,62
+Millard Fillmore,1851,Whig,written,63
+Millard Fillmore,1852,Whig,written,64
+Franklin Pierce,1853,Democratic,written,65
+Franklin Pierce,1854,Democratic,written,66
+Franklin Pierce,1855,Democratic,written,67
+Franklin Pierce,1856,Democratic,written,68
+James Buchanan,1857,Democratic,written,69
+James Buchanan,1858,Democratic,written,70
+James Buchanan,1859,Democratic,written,71
+James Buchanan,1860,Democratic,written,72
+Abraham Lincoln,1861,Republican,written,73
+Abraham Lincoln,1862,Republican,written,74
+Abraham Lincoln,1863,Republican,written,75
+Abraham Lincoln,1864,Republican,written,76
+Andrew Johnson,1865,Republican,written,77
+Andrew Johnson,1866,Republican,written,78
+Andrew Johnson,1867,Republican,written,79
+Andrew Johnson,1868,Republican,written,80
+Ulysses S. Grant,1869,Republican,written,81
+Ulysses S. Grant,1870,Republican,written,82
+Ulysses S. Grant,1871,Republican,written,83
+Ulysses S. Grant,1872,Republican,written,84
+Ulysses S. Grant,1873,Republican,written,85
+Ulysses S. Grant,1874,Republican,written,86
+Ulysses S. Grant,1875,Republican,written,87
+Ulysses S. Grant,1876,Republican,written,88
+Rutherford B. Hayes,1877,Republican,written,89
+Rutherford B. Hayes,1878,Republican,written,90
+Rutherford B. Hayes,1879,Republican,written,91
+Rutherford B. Hayes,1880,Republican,written,92
+Chester A. Arthur,1881,Republican,written,93
+Chester A. Arthur,1882,Republican,written,94
+Chester A. Arthur,1883,Republican,written,95
+Chester A. Arthur,1884,Republican,written,96
+Grover Cleveland,1885,Democratic,written,97
+Grover Cleveland,1886,Democratic,written,98
+Grover Cleveland,1887,Democratic,written,99
+Grover Cleveland,1888,Democratic,written,100
+Benjamin Harrison,1889,Republican,written,101
+Benjamin Harrison,1890,Republican,written,102
+Benjamin Harrison,1891,Republican,written,103
+Benjamin Harrison,1892,Republican,written,104
+Grover Cleveland,1893,Democratic,written,105
+Grover Cleveland,1894,Democratic,written,106
+Grover Cleveland,1895,Democratic,written,107
+Grover Cleveland,1896,Democratic,written,108
+William McKinley,1897,Republican,written,109
+William McKinley,1898,Republican,written,110
+William McKinley,1899,Republican,written,111
+William McKinley,1900,Republican,written,112
+Theodore Roosevelt,1901,Republican,written,113
+Theodore Roosevelt,1902,Republican,written,114
+Theodore Roosevelt,1903,Republican,written,115
+Theodore Roosevelt,1904,Republican,written,116
+Theodore Roosevelt,1905,Republican,written,117
+Theodore Roosevelt,1906,Republican,written,118
+Theodore Roosevelt,1907,Republican,written,119
+Theodore Roosevelt,1908,Republican,written,120
+William Howard Taft,1909,Republican,written,121
+William Howard Taft,1910,Republican,written,122
+William Howard Taft,1911,Republican,written,123
+William Howard Taft,1912,Republican,written,124
+Woodrow Wilson,1913,Democratic,speech,125
+Woodrow Wilson,1914,Democratic,speech,126
+Woodrow Wilson,1915,Democratic,speech,127
+Woodrow Wilson,1916,Democratic,speech,128
+Woodrow Wilson,1917,Democratic,speech,129
+Woodrow Wilson,1918,Democratic,speech,130
+Woodrow Wilson,1919,Democratic,written,131
+Woodrow Wilson,1920,Democratic,written,132
+Warren G. Harding,1921,Republican,speech,133
+Warren G. Harding,1922,Republican,speech,134
+Calvin Coolidge,1923,Republican,speech,135
+Calvin Coolidge,1924,Republican,written,136
+Calvin Coolidge,1925,Republican,written,137
+Calvin Coolidge,1926,Republican,written,138
+Calvin Coolidge,1927,Republican,written,139
+Calvin Coolidge,1928,Republican,written,140
+Herbert Hoover,1929,Republican,written,141
+Herbert Hoover,1930,Republican,written,142
+Herbert Hoover,1931,Republican,written,143
+Herbert Hoover,1932,Republican,written,144
+Franklin D. Roosevelt,1934,Democratic,speech,145
+Franklin D. Roosevelt,1935,Democratic,speech,146
+Franklin D. Roosevelt,1936,Democratic,speech,147
+Franklin D. Roosevelt,1937,Democratic,speech,148
+Franklin D. Roosevelt,1938,Democratic,speech,149
+Franklin D. Roosevelt,1939,Democratic,speech,150
+Franklin D. Roosevelt,1940,Democratic,speech,151
+Franklin D. Roosevelt,1941,Democratic,speech,152
+Franklin D. Roosevelt,1942,Democratic,speech,153
+Franklin D. Roosevelt,1943,Democratic,speech,154
+Franklin D. Roosevelt,1944,Democratic,speech,155
+Franklin D. Roosevelt,1945,Democratic,speech,156
+Franklin D. Roosevelt,1945,Democratic,written,157
+Harry S Truman,1946,Democratic,written,158
+Harry S Truman,1947,Democratic,speech,159
+Harry S Truman,1948,Democratic,speech,160
+Harry S Truman,1949,Democratic,speech,161
+Harry S Truman,1950,Democratic,speech,162
+Harry S Truman,1951,Democratic,speech,163
+Harry S Truman,1952,Democratic,speech,164
+Dwight D. Eisenhower,1953,Republican,written,165
+Harry S Truman,1953,Democratic,written,166
+Dwight D. Eisenhower,1954,Republican,speech,167
+Dwight D. Eisenhower,1955,Republican,speech,168
+Dwight D. Eisenhower,1956,Republican,speech,169
+Dwight D. Eisenhower,1956,Republican,written,170
+Dwight D. Eisenhower,1957,Republican,speech,171
+Dwight D. Eisenhower,1958,Republican,speech,172
+Dwight D. Eisenhower,1959,Republican,speech,173
+Dwight D. Eisenhower,1960,Republican,speech,174
+John F. Kennedy,1961,Democratic,written,175
+Dwight D. Eisenhower,1961,Republican,written,176
+John F. Kennedy,1962,Democratic,speech,177
+John F. Kennedy,1963,Democratic,speech,178
+Lyndon B. Johnson,1964,Democratic,speech,179
+Lyndon B. Johnson,1965,Democratic,speech,180
+Lyndon B. Johnson,1966,Democratic,speech,181
+Lyndon B. Johnson,1967,Democratic,speech,182
+Lyndon B. Johnson,1968,Democratic,speech,183
+Lyndon B. Johnson,1969,Democratic,written,184
+Richard M. Nixon,1970,Republican,speech,185
+Richard M. Nixon,1971,Republican,speech,186
+Richard M. Nixon,1972,Republican,speech,187
+Richard M. Nixon,1972,Republican,written,188
+Richard M. Nixon,1974,Republican,speech,189
+Richard M. Nixon,1974,Republican,written,190
+Gerald R. Ford,1975,Republican,speech,191
+Gerald R. Ford,1976,Republican,speech,192
+Gerald R. Ford,1977,Republican,written,193
+Jimmy Carter,1978,Democratic,speech,194
+Jimmy Carter,1978,Democratic,written,195
+Jimmy Carter,1979,Democratic,speech,196
+Jimmy Carter,1979,Democratic,written,197
+Jimmy Carter,1980,Democratic,speech,198
+Jimmy Carter,1980,Democratic,written,199
+Ronald Reagan,1981,Republican,speech,200
+Jimmy Carter,1981,Democratic,written,201
+Ronald Reagan,1982,Republican,speech,202
+Ronald Reagan,1983,Republican,speech,203
+Ronald Reagan,1984,Republican,speech,204
+Ronald Reagan,1985,Republican,speech,205
+Ronald Reagan,1986,Republican,speech,206
+Ronald Reagan,1987,Republican,speech,207
+Ronald Reagan,1988,Republican,speech,208
+George Bush,1989,Republican,speech,209
+George Bush,1990,Republican,speech,210
+George Bush,1991,Republican,speech,211
+George Bush,1992,Republican,speech,212
+William J. Clinton,1993,Democratic,speech,213
+William J. Clinton,1994,Democratic,speech,214
+William J. Clinton,1995,Democratic,speech,215
+William J. Clinton,1996,Democratic,speech,216
+William J. Clinton,1997,Democratic,speech,217
+William J. Clinton,1998,Democratic,speech,218
+William J. Clinton,1999,Democratic,speech,219
+William J. Clinton,2000,Democratic,speech,220
+George W. Bush,2001,Republican,speech,221
+George W. Bush,2002,Republican,speech,222
+George W. Bush,2003,Republican,speech,223
+George W. Bush,2004,Republican,speech,224
+George W. Bush,2005,Republican,speech,225
+George W. Bush,2006,Republican,speech,226
+George W. Bush,2007,Republican,speech,227
+George W. Bush,2008,Republican,speech,228
+Barack Obama,2009,Democratic,speech,229
+Barack Obama,2010,Democratic,speech,230
+Barack Obama,2011,Democratic,speech,231
+Barack Obama,2012,Democratic,speech,232
+Barack Obama,2013,Democratic,speech,233
+Barack Obama,2014,Democratic,speech,234
+Barack Obama,2015,Democratic,speech,235
+Barack Obama,2016,Democratic,speech,236
