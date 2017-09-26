@@ -144,9 +144,9 @@ Part 2: Text Analysis
 
 
 
--   2017-09-27: Practicum: Using Mallet I / Stylometry
+-   2017-09-27: Practicum: Using Mallet I 
 
--   2017-10-02: Topic Modeling II
+-   2017-10-02: Topic Modeling II / Stylometry
         
     -  Read and explore [Mining The Dispatch.](http://dsl.richmond.edu/dispatch/) 
     and [Signs at 40](http://signsat40.signsjournal.org/)
