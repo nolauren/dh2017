@@ -144,26 +144,26 @@ Part 2: Text Analysis
 
 
 
--   2017-09-27: Practicum: Using Mallet I
+-   2017-09-27: Practicum: Using Mallet I / Stylometry
 
 -   2017-10-02: Topic Modeling II
         
     -  Read and explore [Mining The Dispatch.](http://dsl.richmond.edu/dispatch/) 
     and [Signs at 40](http://signsat40.signsjournal.org/)
-
--   2017-10-04: Practicum: Using Mallet II - Modeling with JStor Data
-
--   2017-10-09: Stylometry
-
+    
     -  [Robinson, David. "Text analysis of Trump's tweets confirms he writes only the (angrier) Android half". Variance Explained.(Blog).](http://varianceexplained.org/r/trump-tweets/)
 
     -   [Gamerman, Ellen. “Data Miners Dig for Answers About Harper Lee,
         Truman Capote and ‘Go Set a Watchman.” Wall Street Journal. July
         15, 2015.](http://blogs.wsj.com/speakeasy/2015/07/15/go-set-a-watchman-harper-lee-truman-capote/)
- 
--   2017-10-11: Final Project Workshop I
+
+-   2017-10-04: Practicum: Using Mallet II - Modeling with JStor Data
+
+-   2017-10-09: Final Project Workshop I
 
     - Read the [examples grants available through the NEH](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants). 
+ 
+-   2017-10-11: Visualizing Topic Models
 
 -   2017-10-16: Fall Study Break 
 
@@ -171,8 +171,13 @@ Part 2: Text Analysis
 Part 3: Spatial DH
 
 
--   2017-10-18: Spatial history
-    -   Bodenhamer, David, [“Beyond GIS: Geospatial Technologies and the
+-   2017-10-18: No Class
+ 
+-   2017-10-20: Assignment 2 - Text Analysis Assignment
+
+-   2017-10-23: Spatial History 
+
+   -   Bodenhamer, David, [“Beyond GIS: Geospatial Technologies and the
         Future of History.”](https://github.com/introdh2016/other/blob/master/BeyondGIS.pdf) p. 1-13. History and GIS: Epistomologies,
         Considerations and Reflections. Springer, 2013.  
 
@@ -183,10 +188,6 @@ Part 3: Spatial DH
         
     -   Explore [American Panorama](http://dsl.richmond.edu/panorama/)
 
--    2017-10-20: Assignment 2 - Text Analysis Assignment
-
--   2017-10-23: 
-
  -   [Crampton, Jeremy. Mapping: A Critical Introduction to
         Cartography and GIS. Wiley-Blackwell, 2010.](https://github.com/introdh2016/other)
 
@@ -196,9 +197,9 @@ Part 3: Spatial DH
      - [Hillier, Amy. "Redlining in Philadelphia." Past Time, Past Place: GIS for History. ESRI Press, 2002.](https://github.com/introdh2016/other/blob/master/redliningphilly.pdf)
 
 
--   2017-10-30: Practicum: ArcGIS Part II
+-   2017-10-30: Final Project Workshop II 
     
--   2017-11-01: Final Project Workshop II - 
+-   2017-11-01:  Practicum: ArcGIS Part II 
 
 Part 4: Network Analysis
 
