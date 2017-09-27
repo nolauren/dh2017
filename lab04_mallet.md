@@ -105,6 +105,13 @@ renaming it something that allows you replicate the model if needed. For example
 using the above settings, we might call it `topic_keys_n30_s1.txt` (30 topics and
 random seed 1).
 
+If you want more details about the options to the commands above, or to see additional
+options, run the following in the terminal:
+
+```{sh}
+bin/mallet train-topics --help
+```
+
 ## Using Mallet - Windows
 
 Three basic steps to using Mallet:
