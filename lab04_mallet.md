@@ -144,8 +144,18 @@ random seed 1).
 
 ## Mallet - Adding custom stop words
 
-Create a file (my_stopwords.txt) with your stop words and put it directly in the mallet
-folder (in our case mallet-2.0.8).
+Mallet has a default stop list it uses. In many cases though, we want to 
+adjust the stop list according to our needs. For example, if I'm working with American
+Quarterly, I might want to stoplist "American" and "Quarterly."
+
+The default lists are available in: `mallet-2.0.8/stoplists/`. You can override
+the default list on Mallet using one of these lists or a custom list of your
+choosing.  How do we do this?
+
+Copy the file `en.txt`, rename it `my_stopwords.txt`, and put it directly in
+the mallet folder (in our case mallet-2.0.8). Add your own stop words to the
+list as new lines. Then, run the following command to set-up the mallet binary
+object to include these stopwords:
 
 ```sh
 bin/mallet import-dir --input amstudiestxt --output texts.mallet \
@@ -153,73 +163,18 @@ bin/mallet import-dir --input amstudiestxt --output texts.mallet \
   --stopword-file my_stopwords.txt 
 ```
 
-On a Window machine, just modify the first part to be `bin\mallet`.
-
-## Adjust Stopwords 
-
-Mallet has a default stop list it uses. In many cases though, we want to 
-adjust the stop list according to our needs. For example, if I'm working with American
-Quarterly, I might want to stoplist "American" and "Quarterly."
-
-The stopword lists are available in: mallet-2.0.7/stoplists/
-You can override the default list on Mallet using one of these lists 
-or a custom list of your choosing.  How do we do this?
-
-In our tutorial on google docs, we are using the following code for our data:
-
-```
-bin/mallet import-dir --input AQ/ --output texts.mallet 
---token-regex '\p{L}[\p{L}\p{P}]*\p{L}' --keep-sequence --remove-stopwords
-```
-
-We need to replace
-
-```
---remove-stopwords
-```
-with
-
-```
---stoplist-file stoplists/NAMEOFFILE.txt
-
-````
-
-so the code now is
-
-```
-bin/mallet import-dir --input AQ/ --output texts.mallet 
---token-regex '\p{L}[\p{L}\p{P}]*\p{L}' --keep-sequence --stoplist-file stoplists/NAMEOFFILE.txt
-```
-
-Let's look at an example.
-
-In my case, I want to use the english stopword list 
-in mallet-2.0.7/stoplists/en.txt.  You can go into the Mallet folder on
-your computer and see it. Accoringly, when I go to run process the text, I will use:
-
-```
---stoplist-file stoplists/en.txt
-```
-
-The code I run in my terminal will be:
-
-```
-bin/mallet import-dir --input AQ/ --output texts.mallet 
---token-regex '\p{L}[\p{L}\p{P}]*\p{L}' --keep-sequence --stoplist-file stoplists/en.txt
-```
-
-Let's say I now want to use a custom list. I have named  it laurencustomstoplist.txt. 
-Then I will use:
-
-```
---stoplist-file stoplists/laurencustomstoplist.txt
-```
-in 
-```
-bin/mallet import-dir --input AQ/ --output texts.mallet 
---token-regex '\p{L}[\p{L}\p{P}]*\p{L}' --keep-sequence --stoplist-file stoplists/laurencustomstoplist.txt
-```
 Now, I'm using my custom list! 
+
+On a Window machine, the code is mostly the same, just modify the first part to
+be `bin\mallet`.
+
+### What's next
+
+Now, explore adjusting the number of topics and editing the stop word lists.
+Decide on which topic model you find the most interesting or insightful. Be
+prepared to explain why.
+
+--------------------
 
 ## Troublshooting
 
@@ -230,7 +185,7 @@ To address this issue, you can do one of the following:
 
 ##Outside the Terminal
 
-Go to the folder ~/Downloads/mallet-2.0.7/bin/
+Go to the folder ~/Downloads/mallet-2.0.8/bin/
 
 Drag the "mallet" file into into a text editor. I recommend Sublime.
 (If is it a PC, you will use mallet.bat)
@@ -246,7 +201,7 @@ Look at "Memory."  In my case, my machine has 8GB. I will change to MEMORY=7g.
 
 ##Inside the Terminal
 
-Go to the directory mallet2.0.7/bin/
+Go to the directory mallet2.0.8/bin/
 
 Type 
 ```
@@ -276,9 +231,5 @@ split -b 6k file.txt file_
 ```
 
 Replace file.txt with the name of your file, and file_ with the name of the prefix for each smaller part.  
-
- 
-
-
 
 This lab is adapted from a workshop by Peter Leonard, Digital Humanities Library, Yale University
