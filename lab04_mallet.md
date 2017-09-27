@@ -95,6 +95,7 @@ bin/mallet train-topics \
   --num-topics 30 \
   --output-topic-keys topic_keys.txt \
   --xml-topic-report  topic_report.xml \
+  --num-iterations 100 \
   --random-seed 1
 ```
 
@@ -178,8 +179,10 @@ be `bin\mallet`.
 ### What's next
 
 Now, explore adjusting the number of topics and editing the stop word lists.
-Decide on which topic model you find the most interesting or insightful. Be
-prepared to explain why.
+You may also change the number of iterations; the higher the number the longer
+the model takes the finish but the more accurate and stable it will be. Decide
+on which topic model you find the most interesting or insightful. Be prepared
+to explain why. 
 
 --------------------
 
