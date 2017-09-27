@@ -140,6 +140,7 @@ bin\mallet train-topics \
   --num-topics 30 \
   --output-topic-keys topic_keys.txt \
   --xml-topic-report  topic_report.xml \
+  --num-iterations 100 \
   --random-seed 1
 ```
 
@@ -171,7 +172,8 @@ bin/mallet import-dir --input amstudiestxt --output texts.mallet \
   --stopword-file my_stopwords.txt 
 ```
 
-Now, I'm using my custom list! 
+Now, I'm using my custom list! You need to repeat the model building stage
+(step 3 above) to fit a model using this new data.
 
 On a Window machine, the code is mostly the same, just modify the first part to
 be `bin\mallet`.
