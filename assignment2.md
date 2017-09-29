@@ -1,4 +1,4 @@
-# Response 
+# Assignment 2 - Topic Modeling 
 
 The 500-1500 word response should explain the data set, the initial findings, and how one would go about further exploring the data set/ findings/ arguments. 
 It should  also address the following questions:
