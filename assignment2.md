@@ -22,7 +22,7 @@ More details:
 ## Downloading Data
 
 It takes several days for Jstor to send the data. Make sure to make this request immediately. 
-Visit [here](fr.jstor.org). Set up an account and select your data. 
+Visit [here](http://dfr.jstor.org). Set up an account and select your data. 
 One you have selected a journal, things to consider include  Article Type and Year of Publication.
 Select Data Type: "Citations Only" and "Word Counts" and Output Format: "CSV".  
 
