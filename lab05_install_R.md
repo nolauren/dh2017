@@ -6,7 +6,7 @@ We will use the **R** programming environment for our lab next week. It is freel
 available for all major operating systems and is pre-installed on many campus
 computers. Today, we will walk through steps for setting it up on your own machine.
 
-### Download R
+### Download R (Step 1)
 
 We need to download the R programming language. To do
 this go to [https://cran.r-project.org/](https://cran.r-project.org/)
@@ -14,25 +14,25 @@ and select your platform:
 
 ![](img/cran01.jpeg)
 
-### Download R
+### Download R (Mac Step 2)
 
 For macOS, just download R-3.4.1 (or whatever is the most recent):
 
 ![](img/cran02.jpeg)
 
-### Download R
+### Download R (Windows Step 2)
 
 For Windows, first select **base**
 
 ![](img/cran03.jpeg)
 
-### Download R
+### Download R (Windows Step 3)
 
 And then *Download R 3.4.1*
 
 ![](img/cran04.jpeg)
 
-### Install R
+### Install R 
 
 One you have the .pkg (macOS) or .exe (Windows) file,
 install this on your computer according to the default
