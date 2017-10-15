@@ -36,7 +36,7 @@ More details:
 
 - Save as "Assignment2_YOURLASTNAME.md" in your repository. 
 
-- Grading: [Rubric]()
+- Grading: [Rubric](https://github.com/nolauren/dh2017/blob/master/assignment2_rubric.pdf)
 
 ------------------------------------------------------------------------------------------------
 
