@@ -205,7 +205,7 @@ Part 4: Network Analysis
 
 -   2017-11-06: Social networks
 
-    -   Newman, Mark. Networks: An Introduction. [Chapter 1: Introduction](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199206650.001.0001/acprof-9780199206650-chapter-1)
+    -   Newman, Mark. Networks: An Introduction. Chapter 1: Introduction. (To be provided.)
 
      -   [Weingart, Scott. “Demystifying Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No. 1. Winter 2011.](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart)
 
