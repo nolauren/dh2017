@@ -219,6 +219,8 @@ Part 4: Network Analysis
 
 -   2017-11-13: Layering Networks
 
+    - [Moretti, Franco. "Network Theory, Plot Analysis."](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
+
     -   [Weingart, Scott. “Topic Modeling and Network Analysis.”](http://www.scottbot.net/HIAL/index.html@p=221.html)
 
     -   [Weingart, Scott. “Contextualizing networks with maps.”](http://www.scottbot.net/HIAL/index.html@p=1942.html)
