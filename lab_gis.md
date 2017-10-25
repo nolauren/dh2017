@@ -67,7 +67,6 @@ Now we want to add points.
 We want to make sure to select points across the map.
 If you concentrate them, it will warp the map to that set of points.
 
-
 Select "Georeferencing" and select "Fit to Display". 
 The hardest part is finding your first point. 
 
@@ -75,7 +74,9 @@ The hardest part is finding your first point.
 Select the X->X icon in the georefering toolbar.
 
 To make it easier to see our map, we can adjust the layer opacity.
-Click on the Layer -> Properties -> 
+Click on the Layer -> Properties -> Right click on a layer -> Layer Properties
+Click on Display and there you can adjust the transparency. 
+This will allow you to see both maps at once.
 
 A strategy is to use roads to find the first point.
 Select a road to connect.
@@ -83,13 +84,30 @@ Select the X-> X icon and click on your map image.
 Turn off the image map layer.
 Click on the base map. 
 
-#### Remove a Poiint
+#### Remove a Point
 In the georeferencing toolkbar, select  "Link Table".
 "Souce" - Historic map/ the jpeg
 Target -  base map 
 Select the point and hit delete. 
 
+### Saving the Map
 
+Georeferncing -> Rectify
+
+A "Save AS" screen appears. 
+
+NoData: [Make Sure this is blank]
+
+Output Location:  Create a new folder and call it "NAMEOFCITY_LASTNAME_rectified"
+
+Format: PNG
+
+Name: NAMEOFCITY_LASTNAME_rectified.png
+
+This creates a new file on your computer with multiple files in it. 
+Load this folder to Box. 
+
+-------
 
 Go to "Connect to Folder". (It's the icon with the folder and plus sign.) 
 
