@@ -5,10 +5,10 @@ Goal: Georeference a HOLC map using ArcGIS.
 
 ## Data
 
-Go to [Box.](https://tinyurl.com/introdhspatial). Pick a map. 
+Go to [Box](https://tinyurl.com/introdhspatial). Pick a map. 
 To download, click the  '...' by your city and select 'Download'. 
 It will provide a zip file. Save to the Desktop.
-Select the file and "Extract All".
+Select the file and 'Extract All'.
 
 Inside the folder are two files.
 - Shape File
@@ -17,19 +17,20 @@ Inside the folder are two files.
 
 ## ArcMap: Georeferencing 
 
-We are connecting a paper map/ image to a base map with spatial coordinates.
-It embeds these coordinates in the paper map.
-We building spatial data. 
+Think of this as connecting a paper map/ image to a base map with spatial coordinates.
+We are embedding coordinates in the paper map.
+We are building spatial data. 
 The power comes with the layers of data we build. 
 
-What do you georefencing to?
-Need to think about your end goal (Ex. Nautical use? Roads?).
+So, what do you georefence to?
 There are different projections for different things. 
-There will always be distortions (Ex. distance, direction).
+Need to think about your end goal (ex. Nautical use? Roads?).
+There will always be distortions (ex. distance, direction).
 For example, google uses Web Meractor. 
-For some fun, see this [comic](https://xkcd.com/977/).
+For some humor about projections, see this  XKCD [comic](https://xkcd.com/977/).
 
-What are some challenges to georeferencing today? 
+We have historic maps but we are georeferncing to a base map from today. 
+What are some challenges for georeferencing a historic map to a contemporary base map ? 
 For example, there are new roads. 
 
 ### Adding Data 
@@ -53,7 +54,7 @@ In "Add Data", select your .jpg map.
 It will say you are missing spatial data. This is ok. 
 If it asks if you should create pyramids, select yes.
 
-
+So, where did my map go?
 The image of the city will be at Lat 0/Long 0.
 It also will be a layer in your table of contents. 
 
@@ -61,17 +62,23 @@ It also will be a layer in your table of contents.
 
 Right click in ArcGIs and a series of tools will appear.
 Select "Georeferencing".
-A toolbar will appear.
+A toolbar will appear. This has  the tools we need to connect our two maps. 
 
 Now we want to add points. 
 We want to make sure to select points across the map.
-If you concentrate them, it will warp the map to that set of points.
+Otherwise, of you concentrate them, it will warp the map to that set of points.
 
+One way to make this process easier is to move your historic map as close as possible to the same area on the base map.
+Zoom in on the base map so it appears to match the geographic area featured on your historic map.
 Select "Georeferencing" and select "Fit to Display". 
-The hardest part is finding your first point. 
+You can't do this once you start adding Control Points, so make sure this looks like you want it.
+
+
 
 #### Adding a Control Point 
-Select the X->X icon in the georefering toolbar.
+The hardest part is finding your first point. 
+
+Select the X->X icon in the georeferencing toolbar.
 
 To make it easier to see our map, we can adjust the layer opacity.
 Click on the Layer -> Properties -> Right click on a layer -> Layer Properties
@@ -83,6 +90,11 @@ Select a road to connect.
 Select the X-> X icon and click on your map image.
 Turn off the image map layer.
 Click on the base map. 
+
+Make sure to tag the first point on the historic map (Source) and the second point on the base map (Target).
+It must be done in this order. 
+
+Now, add 5-10 points across the map!
 
 #### Remove a Point
 In the georeferencing toolkbar, select  "Link Table".
@@ -106,51 +118,4 @@ Name: NAMEOFCITY_LASTNAME_rectified.png
 
 This creates a new file on your computer with multiple files in it. 
 Load this folder to Box. 
-
--------
-
-Go to "Connect to Folder". (It's the icon with the folder and plus sign.) 
-
-"Browse to your folder. 
-Click on the CITY_Shapefile folder.  
-Add the shapefile. 
-
-What do you see?
-
-It is the 2010 Census Tiger line data set.
-
-Next, we need to add our city map.  Go to 'Add Data' and select STATE_CITY_DATE.jpg.
-
-Open the [ Georeferencing Training Manual](https://github.com/introdh2016/other/blob/master/HOLC%20Georeferencing%20Training%20Manual.pdf) and turn to "Step 4" on page 17 of the PDF.
-
-When you are done, save your work back to Box. 
-
-## Working with Georectified Map 
-
-Download your city zip file from the Day_2 Folder. Save to desktop. Unzip the folder. 
-
-Launch ArcMap. 
-
-Select the 'Add Data' button.  Go to "Connect to Folder". (It's the icon with the folder and plus sign.) "Browse to your folder. Add the CITY_STATE_NEW.png.  Then add the census data. Go to state folder and click on Census_2010. Add the Census_track_2010.shp.
-
-To see the city map, drag the city layer to the top.
-
-##  Explore Census info
-
-Right click on the Census_tract_2010. Select Properties -> Symbology. Change the "Show" on the left side to Quantities. Once there, you can change the "Value" to White, Black or another category. Make sure to normalize by total population ("Total"). You can adjust the number of buckets. Explore!
-
-To make the city map transparent: Right click on the CITY_STATE_NEW.png. Select Properties -> Display -> Transparency and adjust as you see fit. 
-
-## Information
- If you want to see more data about the census tract,  click on the "i" button next to the cursor button on the top toolbar (right below Geoprocessing). 
- 
-## Legends
-On the botton right corner, there is a Layout view.  Click on Layout view.   Go to Insert -> Legend.  In "Legend Items" put "Census_tracts_2010".   Give your map a Title.  Play around with the Legend Frame.   If you want to zoom in to show a particular part of the map, you can go to the top left where there is a zoom buttom (magnifying glass with a + sign). 
- 
-## Export 
- File -> Export Map -> .JPG
- 
-##Explore Neighborhoods
-To explore neighborhoods go to dsl.richmond.edu/panorama/redlining
- 
 
