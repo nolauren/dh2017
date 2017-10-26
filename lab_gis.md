@@ -1,5 +1,7 @@
 # Lab: Spatial Analysis
 
+This lab is designed with Justin Madron, UR Digital Scholarship Lab. 
+
 Goal: Georeference a HOLC map using ArcGIS.
 
 
