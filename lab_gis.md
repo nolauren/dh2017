@@ -121,3 +121,5 @@ Name: NAMEOFCITY_LASTNAME_rectified.png
 This creates a new file on your computer with multiple files in it. 
 Load this folder to Box. 
 
+For more on georeferencing HOLC maps, see the [Mapping Inequality guide](http://dsl.richmond.edu/projects/holc_manual/HOLC_manual.pdf). 
+
