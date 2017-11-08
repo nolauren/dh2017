@@ -1,8 +1,9 @@
 
 
-Goal: Add block groups to the map using GIS.
 
-Tool: ArcMap
+**Goal**: Add block groups to a georectified map using GIS. 
+
+**Tool**: ArcMap
 
 ## Accessing Data
 
