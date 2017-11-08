@@ -30,7 +30,7 @@ You can add a base map, but it isn't necessary (Selection -> Add Basemap).
 
 Go to `Add Data`. Select `Connect A Folder`. Select `Desktop`.
 This gives us access to our `Desktop` files.
-Now let's add in our block group information. Click through to the .shp file.
+Now lets add in our block group information. Click through to the .shp file.
 
 
 ### Block Groups and Census Tracts
