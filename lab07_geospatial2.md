@@ -61,13 +61,13 @@ Now select the historic map layer and select `Zoom To Layer`.
 
 ### Block Groups
 
-Go the the Block Groups layer -> Right Click - Select O`pen Attribute Table`
+Go the the Block Groups layer -> Right Click - Select `Open Attribute Table`
 You'll see a bunch of headings.
 We want to change this into something we understand.
 
 
-Right click on `blck_gro_p` -> Go to  `Properties` -> Zoom all the way to the right
-Change `blck_group` fields at the end. Change the `alias` for each row. 
+Right click on `blck_gro_p` -> Go to  `Properties` -> Zoom all the way to the right.
+Change blck_group fields at the end. Change the `alias` for each row. 
 It corresponds to the codebook section called `NHGIS code: JMB`.
 
 Once done, the final 7 left columns should be labeled:
@@ -78,12 +78,12 @@ Black
 
 
 ### Adding Block Groups to the Historic Map
-Right clikc on the block group layer -> `Properties` ->  `Symbology`  -> `Quantities` -> `Value`
+Right click on the block group layer -> `Properties` ->  `Symbology`  -> `Quantities` -> `Value`.
 Now we see our labels.
 Select `White Only`.  You'll see a set of buckets.
 You can change the colors but by default what we see if that it the block is a dark red, it is very white.
 
-To get actual nubmers, click the identify button next to the arrow.
+To get actual numbers, click the identify button next to the arrow.
 Scroll down and you'll see info about that exact block.
 
 
