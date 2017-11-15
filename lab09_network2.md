@@ -94,9 +94,9 @@ The derived network measures include:
 - eigen: "A measure of the influence of a node in a network. 
 It assigns relative scores to all nodes in the network based on the concept that 
 connections to high-scoring nodes contribute more to the score of the node in question 
-than equal connections to low-scoring nodes "[Wikipedia](https://en.wikipedia.org/wiki/Eigenvector_centrality).
+than equal connections to low-scoring nodes "([Wikipedia](https://en.wikipedia.org/wiki/Eigenvector_centrality)).
 - close: the closeness centrality measurement. Gives the average distance from all other nodes to a given node.
-- between: "A measure of centrality in a graph based on shortest paths" ([Wikipedia](https://en.wikipedia.org/wiki/Betweenness_centrality))
+- between: "A measure of centrality in a graph based on shortest paths" ([Wikipedia](https://en.wikipedia.org/wiki/Betweenness_centrality)).
 In other words, it calculates the number of shortests paths that pass through that node. 
 - cluster: A set of nodes that cluster together within a larger network. 
 They are also known as communities. 
