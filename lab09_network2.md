@@ -95,15 +95,15 @@ The derived network measures include:
 It assigns relative scores to all nodes in the network based on the concept that 
 connections to high-scoring nodes contribute more to the score of the node in question 
 than equal connections to low-scoring nodes "[Wikipedia](https://en.wikipedia.org/wiki/Eigenvector_centrality).
-- close:
+- close: the closeness centrality measurement. Gives the average distance from all other nodes to a given node.
 - between: "A measure of centrality in a graph based on shortest paths" ([Wikipedia](https://en.wikipedia.org/wiki/Betweenness_centrality))
 In other words, it calculates the number of shortests paths that pass through that node. 
 - cluster: A set of nodes that cluster together within a larger network. 
 They are also known as communities. 
 There can be muliple communities in one network. 
 The clusters are algorithmically learning groupings of nodes that are are cited by one another.
-- component
-- component_size
+- component: the components of a network are the connected sets of the nodes. In other words, you can get to all other nodes in a component by traversing edges. This measure gives an id for each component. Not very useful for plotting but can be used for filtering the dataset.
+- component_size: the size of the component. Again, generally not useful for plotting but can be used in filtering the dataset.
 
 Then, you can run the corresponding plot by selecting the
 number. You'll need to determine whether the variable should
