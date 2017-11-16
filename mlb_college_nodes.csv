@@ -1,0 +1,1087 @@
+id,name_full,type
+WSN,Washington Nationals,mlb
+TOR,Toronto Blue Jays,mlb
+TEX,Texas Rangers,mlb
+TBD,Tampa Bay Rays,mlb
+STL,St. Louis Cardinals,mlb
+SFG,San Francisco Giants,mlb
+SEA,Seattle Mariners,mlb
+SDP,San Diego Padres,mlb
+PIT,Pittsburgh Pirates,mlb
+PHI,Philadelphia Phillies,mlb
+OAK,Oakland Athletics,mlb
+NYM,New York Mets,mlb
+NYY,New York Yankees,mlb
+MIN,Minnesota Twins,mlb
+MIL,Milwaukee Brewers,mlb
+FLA,Miami Marlins,mlb
+LAD,Los Angeles Dodgers,mlb
+ANA,Los Angeles Angels of Anaheim,mlb
+KCR,Kansas City Royals,mlb
+HOU,Houston Astros,mlb
+DET,Detroit Tigers,mlb
+COL,Colorado Rockies,mlb
+CLE,Cleveland Indians,mlb
+CIN,Cincinnati Reds,mlb
+CHC,Chicago Cubs,mlb
+CHW,Chicago White Sox,mlb
+BOS,Boston Red Sox,mlb
+BAL,Baltimore Orioles,mlb
+ATL,Atlanta Braves,mlb
+ARI,Arizona Diamondbacks,mlb
+SLI,St. Louis Terriers,mlb
+PBS,Pittsburgh Rebels,mlb
+NEW,Newark Pepper,mlb
+KCP,Kansas City Packers,mlb
+CHH,Chicago Whales,mlb
+BFL,Buffalo Blues,mlb
+BTT,Brooklyn Tip-Tops,mlb
+BLT,Baltimore Terrapins,mlb
+WAS,Washington Senators,mlb
+LOU,Louisville Colonels,mlb
+CLV,Cleveland Spiders,mlb
+BLO,Baltimore Orioles,mlb
+PHQ,Philadelphia Athletics,mlb
+MLA,Milwaukee Brewers,mlb
+CKK,Cincinnati Kelly's Killers,mlb
+CLS,Columbus Solons,mlb
+BRS,Boston Reds,mlb
+SYS,Syracuse Stars,mlb
+PHA,Philadelphia Athletics,mlb
+CLI,Cleveland Infants,mlb
+CHP,Chicago Pirates,mlb
+BWW,Brooklyn Ward's Wonders,mlb
+BRG,Brooklyn Gladiators,mlb
+IND,Indianapolis Hoosiers,mlb
+DTN,Detroit Wolverines,mlb
+NYP,New York Metropolitans,mlb
+SLM,St. Louis Maroons,mlb
+KCN,Kansas City Cowboys,mlb
+PRO,Providence Grays,mlb
+BUF,Buffalo Bisons,mlb
+WNA,Washington Nationals,mlb
+WST,Washington Nationals,mlb
+WIL,Wilmington Quicksteps,mlb
+TOL,Toledo Blue Stockings,mlb
+KCU,Kansas City Cowboys,mlb
+CBK,Columbus Buckeyes,mlb
+CBL,Cleveland Blues,mlb
+BRD,Boston Reds,mlb
+WOR,Worcester Ruby Legs,mlb
+TRT,Troy Trojans,mlb
+MLG,Milwaukee Grays,mlb
+SBS,St. Louis Brown Stockings,mlb
+LGR,Louisville Grays,mlb
+NYU,New York Mutuals,mlb
+PWS,Philadelphia Whites,mlb
+PNA,Philadelphia Athletics,mlb
+NNA,New York Mutuals,mlb
+NHV,New Haven Elm Citys,mlb
+RES,Elizabeth Resolutes,mlb
+TRO,Troy Haymakers,mlb
+ECK,Brooklyn Eckfords,mlb
+ROK,Rockford Forest Citys,mlb
+youngst,Youngstown State University,college
+yale,Yale University,college
+xavier,Xavier University,college
+wyoming,University of Wyoming,college
+wwashngton,Western Washington University,college
+wvwesleyan,West Virginia Wesleyan College,college
+wvstate,West Virginia State University,college
+wvpotom,Potomac State College,college
+wvirginia,West Virginia University,college
+wshngtonmo,Washington University in St. Louis,college
+wrightst,Wright State University,college
+wpaterson,William Paterson University,college
+woosteroh,College of Wooster,college
+wofford,Wofford College,college
+wminsterpa,Westminster College,college
+wminstermo,Westminster College,college
+wmichigan,Western Michigan University,college
+wlmpennia,William Penn University,college
+wlmjewell,William Jewell College,college
+wlibertyst,West Liberty State College,college
+wkentucky,Western Kentucky University,college
+wiwhitewtr,University of Wisconsin at Whitewater,college
+wittnbrgoh,Wittenberg University,college
+wistvnspt,University of Wisconsin at Stevens Point,college
+wisconsin,University of Wisconsin at Madison,college
+wisacre,Sacred Heart College,college
+wioshkosh,University of Wisconsin at Oshkosh,college
+winthrop,Winthrop University,college
+winstsalst,Winston-Salem State University,college
+wingate,Wingate University,college
+willmary,College of William and Mary,college
+willinois,Western Illinois University,college
+williamsma,Williams College,college
+willamette,Willamette University,college
+wilkespa,Wilkes University,college
+wileytx,Wiley College,college
+wilbrforce,Wilberforce University,college
+wilacrosse,University of Wisconsin at La Crosse,college
+widenerpa,Widener University,college
+wichitast,Wichita State University,college
+whitwrthwa,Whitworth College,college
+whittierca,Whittier College,college
+whitmanwa,Whitman College,college
+wheatonma,Wheaton College,college
+wflorida,University of West Florida,college
+westmontca,Westmont College,college
+wesleyanct,Wesleyan University,college
+weberst,Weber State College,college
+wchester,West Chester University of Pennsylvania,college
+wcarolina,Western Carolina University,college
+waynest,Wayne State University,college
+wayakim,Yakima Valley Community College,college
+wawalla,Walla Walla Community College,college
+watacom,Tacoma Community College,college
+washst,Washington State University,college
+washleeva,Washington and Lee University,college
+washjeffpa,Washington and Jefferson College,college
+washington,University of Washington,college
+washcollmd,Washington College,college
+washburn,Washburn University,college
+wasfcco,Spokane Falls Community College,college
+warnerpac,Warner Pacific College,college
+walower,Lower Columbia College,college
+walabama,University of West Alabama,college
+wake,Wake Forest University,college
+wagreen,Green River Community College,college
+wagner,Wagner College,college
+waevere,Everett Community College,college
+waedmon,Edmonds Community College,college
+wacolum,Columbia Basin College,college
+waclark,Clark College,college
+wacentr,Centralia College,college
+wabelle,Bellevue Community College,college
+wabashin,Wabash College,college
+viterbowi,Viterbo University,college
+virginiast,Virginia State University,college
+virginia,University of Virginia,college
+villanova,Villanova University,college
+vermont,University of Vermont,college
+vcu,Virginia Commonwealth University,college
+vatech,Virginia Polytechnic Institute and State University,college
+vanguardca,Vanguard University of Southern California,college
+vandy,Vanderbilt University,college
+vamedic,Medical College of Virginia,college
+valpo,Valparaiso University,college
+vaemenn,Eastern Mennonite University,college
+vaappre,Newport News Apprentice School,college
+utslxxo,Salt Lake Community College,college
+utpanam,University of Texas Pan American,college
+utep,University of Texas at El Paso,college
+utdixie,Dixie State College of Utah,college
+utarl,University of Texas at Arlington,college
+utahst,Utah State University,college
+utah,University of Utah,college
+uscaiken,University of South Carolina Aiken,college
+usc,University of Southern California,college
+ursinus,Ursinus College,college
+upperiowa,Upper Iowa University,college
+upenn,University of Pennsylvania,college
+uofsouth,University of the South,college
+unlv,University of Nevada-Las Vegas,college
+uniontn,Union University,college
+unionny,Union College,college
+uncwilm,University of North Carolina at Wilmington,college
+uncgreen,University of North Carolina at Greensboro,college
+uncashe,University of North Carolina at Asheville,college
+unc,University of North Carolina at Chapel Hill,college
+umassdartm,University of Massachusetts Dartmouth,college
+umass,University of Massachusetts Amherst,college
+ulamo,University of Louisiana at Monroe,college
+ulala,University of Louisiana at Lafayette,college
+ucsd,"University of California, San Diego",college
+ucsb,"University of California, Santa Barbara",college
+ucriver,"University of California, Riverside",college
+uconn,University of Connecticut,college
+ucla,"University of California, Los Angeles",college
+ucirvine,"University of California, Irvine",college
+ucdavis,"University of California, Davis",college
+uab,University of Alabama at Birmingham,college
+txwhart,Wharton County Junior College,college
+txwesleyan,Texas Wesleyan University,college
+txwesle,Wesley College,college
+txverno,Vernon College,college
+txtyler,Tyler Junior College,college
+txtexar,Texarkana College,college
+txtempl,Temple College,college
+txtech,Texas Tech University,college
+txsjjcn,"San Jacinto College, North Campus",college
+txparis,Paris Junior College,college
+txpanol,Panola College,college
+txodess,Odessa College,college
+txnetex,Northeast Texas Community College,college
+txnctjc,North Central Texas College,college
+txnavar,Navarro College,college
+txmerid,Meridian Junior College,college
+txmclen,McLennan Community College,college
+txlonmo,Lon Morris College,college
+txleejc,Lee College,college
+txkilgo,Kilgore College,college
+txhowar,Howard College,college
+txhillj,Hill College,college
+txgrays,Grayson County College,college
+txgalve,Galveston College,college
+txfrank,Frank Phillips College,college
+txeastf,Eastfield College,college
+txcolli,Collin College,college
+txcoast,Coastal Bend College,college
+txclare,Clarendon College,college
+txchrist,Texas Christian University,college
+txburne,Burnetta College,college
+txblinn,Blinn College,college
+txangjc,Angelina College,college
+txangel,Angelo State University,college
+txalvin,Alvin Community College,college
+tuskegee,Tuskegee University,college
+tusculum,Tusculum College,college
+tulsa,University of Tulsa,college
+tulane,Tulane University,college
+tuftsma,Tufts University,college
+trumanst,Truman State University,college
+troyst,Troy University,college
+trnsylvnia,Transylvania University,college
+trinitytx,Trinity University,college
+trinityct,Trinity College,college
+towson,Towson University,college
+toledo,University of Toledo,college
+tnwesleyan,Tennessee Wesleyan College,college
+tntenme,University of Tennessee Health Science Center,college
+tntech,Tennessee Technological University,college
+tnswten,Southwest Tennessee Community College,college
+tnmotlo,Motlow State Community College,college
+tnkingc,King College,college
+tnjacks,Jackson State Community College,college
+tnhiwas,Hiwassee College,college
+tncolum,Columbia State Community College,college
+tncleve,Cleveland State Community College,college
+tnchatt,Chattanooga State Technical Community College,college
+thomasmore,Thomas More College,college
+thielpa,Thiel College,college
+texasam,Texas A&M University,college
+texas,University of Texas at Austin,college
+tennst,Tennessee State University,college
+tennessee,University of Tennessee,college
+temple,Temple University,college
+tarletonst,Tarleton State University,college
+tamukvill,Texas A&M University-Kingsville,college
+tamucomm,Texas A&M University-Commerce,college
+tampa,University of Tampa,college
+syracuse,Syracuse University,college
+swtexas,Texas State University,college
+swoklahoma,Southwestern Oklahoma State University,college
+swmost,Missouri State University,college
+swesterntx,Southwestern University,college
+swesternks,Southwestern College,college
+swarthmore,Swarthmore College,college
+sutah,Southern Utah University,college
+susquehnna,Susquehanna University,college
+sunybuff,"University at Buffalo, State University of New York",college
+sulrossst,Sul Ross State University,college
+stxavieril,St. Xavier University,college
+stthomasmn,University of St. Thomas,college
+stthomasfl,St. Thomas University,college
+strose,College of St. Rose,college
+stpeters,St. Peter's College,college
+stonybrook,Stony Brook University,college
+stmichaels,St. Michael's College,college
+stmarytx,St. Mary's University,college
+stmarysmn,St. Mary's University of Minnesota,college
+stmarysca,St. Mary's College of California,college
+stmartinwa,St. Martin's College,college
+stlouis,St. Louis University,college
+stleo,St. Leo College,college
+stlawrence,St. Lawrence University,college
+stjosephs,St. Joseph's University,college
+stjosephin,St. Joseph's College,college
+stjohns,St. John's University,college
+stfranpa,St. Francis University,college
+stfranny,St. Francis University,college
+stetson,Stetson University,college
+sterlingks,Sterling University,college
+stedwardtx,St. Edward's University,college
+stcloudst,St.Cloud State University,college
+stbonny,St. Bonaventure University,college
+stanselm,St. Anselm College,college
+stanford,Stanford University,college
+stambrseia,St. Ambrose University,college
+sprngfldma,Springfield College,college
+springhill,Spring Hill College,college
+southernu,Southern University and A&M College,college
+sonomast,Sonoma State University,college
+smiss,University of Southern Mississippi,college
+smethodist,Southern Methodist University,college
+smaine,University of Southern Maine,college
+sliprock,Slippery Rock University of Pennsylvania,college
+sindiana,University of Southern Indiana,college
+sillinois,Southern Illinois University Carbondale,college
+silledward,Southern Illinois University Edwardsville,college
+siena,Siena College,college
+shipnsburg,Shippensburg University of Pennsylvania,college
+shepherdwv,Shepherd College,college
+shenandoah,Shenandoah University,college
+shaw,Shaw University,college
+sflorida,University of South Florida,college
+sfcc,South Florida Community College,college
+sfaustin,Stephen F Austin State University,college
+setonhall,Seton Hall University,college
+seoklahoma,Southeastern Oklahoma State University,college
+semost,Southeast Missouri State University,college
+seminolecc,Seminole Community College,college
+sela,Southeastern Louisiana University,college
+seattle,Seattle University,college
+sdcity,San Diego City College,college
+sdakotast,South Dakota State University,college
+scupsta,University of South Carolina Upstate,college
+scstate,South Carolina State University,college
+scspart,Spartanburg Methodist College,college
+schreiner,Schreiner University,college
+scarolina,University of South Carolina,college
+sarkansas,Southern Arkansas University,college
+santaclara,Santa Clara University,college
+sanjosest,San Jose State University,college
+sanfranst,San Francisco State University,college
+sanfran,University of San Francisco,college
+sandiegost,San Diego State University,college
+sandiego,University of San Diego,college
+samhouston,Sam Houston State University,college
+samford,Samford University,college
+salemintl,Salem International University,college
+salabama,University of South Alabama,college
+saginawval,Saginaw Valley State University,college
+sacstate,California State University Sacramento,college
+rutgers,"Rutgers, the State University of New Jersey",college
+rowannj,Rowan University,college
+rosehulman,Rose-Hulman Institute of Technology,college
+rollins,Rollins College,college
+rockhurst,Rockhurst University,college
+roanokeva,Roanoke College,college
+riponwi,Ripon College,college
+riogrande,University of Rio Grande,college
+rider,Rider University,college
+richmond,University of Richmond,college
+rice,Rice University,college
+ric,Rhode Island College,college
+rhodestn,Rhodes College,college
+rhodeisle,University of Rhode Island,college
+randmacon,Randolph-Macon College,college
+ramaponj,Ramapo College,college
+radford,Radford University,college
+quinnipiac,Quinnipiac College,college
+quincy,Quincy University,college
+purdue,Purdue University,college
+pugetsound,University of Puget Sound,college
+ptparkpa,Point Park University,college
+ptlomanaz,Point Loma Nazarene University,college
+providence,Providence College,college
+princeton,Princeton University,college
+presbytrn,Presbyterian College,college
+prairview,Prairie View A&M University,college
+portlandst,Portland State University,college
+portland,University of Portland,college
+plymouth,Plymouth State College,college
+pittsburgh,University of Pittsburgh,college
+pittsbst,Pittsburg State University,college
+philly,Philadelphia University,college
+pfeiffer,Pfeiffer University,college
+pepperdine,Pepperdine University,college
+pennst,Pennsylvania State University,college
+pbsc,Palm Beach Community College,college
+pavolan,Volant College,college
+paschuy,Schuylkill College,college
+pahahne,Hahnemann University,college
+padelaw,Delaware County Community College,college
+pacificor,Pacific University,college
+pacific,University of the Pacific,college
+pacarli,Carlisle Indian Industrial School,college
+pabutle,Butler County Community College,college
+pabucks,Bucks County Community College,college
+pabeave,Community College of Beaver County,college
+paalles,"Community College of Allegheny County, South Campus",college
+paalleb,"Community College of Allegheny County, Boyce Campus",college
+ozarks,University of the Ozarks,college
+oxnard,Oxnard College,college
+ouachitab,Ouachita Baptist University,college
+otterbein,Otterbein College,college
+orweste,Western Oregon University,college
+ortreas,Treasure Valley Community College,college
+ormount,Mount Hood Community College,college
+orlinnb,Linn-Benton Community College,college
+oregonst,Oregon State University,college
+oregon,University of Oregon,college
+orbluem,Blue Mountain Community College,college
+oralrob,Oral Roberts University,college
+olivetnaz,Olivet Nazarene University,college
+olivetmi,Olivet College,college
+olemiss,University of Mississippi,college
+olddom,Old Dominion University,college
+okwesle,Oklahoma Wesleyan University,college
+okstate,Oklahoma State University,college
+oksemin,Seminole State College,college
+okneoam,Northeast Oklahoma A&M College,college
+oklahoma,University of Oklahoma,college
+okeaste,East Oklahoma State College,college
+okconno,Connors State College,college
+okcity,Oklahoma City University,college
+ohwesleyan,Ohio Wesleyan University,college
+ohvalley,Ohio Valley College,college
+ohsincl,Sinclair Community College,college
+ohlakel,Lakeland Community College,college
+ohiost,The Ohio State University,college
+ohio,Ohio University,college
+ohdominican,Ohio Dominican University,college
+ohcuyah,Cuyahoga Community College,college
+ohcaset,Case Institute of Applied Sciences,college
+occidental,Occidental College,college
+oberlinoh,Oberlin College,college
+nyuroch,University of Rochester,college
+nytech,New York Institute of Technology,college
+nysuffo,Suffolk County Community College,college
+nyrockl,Rockland Community College,college
+nyonond,Onondaga Community College,college
+nyoneonta,State University of New York at Oneonta,college
+nynassa,Nassau Community College,college
+nymohaw,Mohawk Valley Community College,college
+nymercy,Mercy College,college
+nymarit,Maritime College,college
+nykbcco,Kingsborough Community College,college
+nyeriec,Erie Community College,college
+nydutch,Dutchess Community College,college
+nycortland,State University of New York at Cortland,college
+nwstate,Northwestern State University of Louisiana,college
+nwokstate,Northwestern Oklahoma State University,college
+nwmost,Northwest Missouri State University,college
+nwestern,Northwestern University,college
+ntexas,University of North Texas,college
+notredame,University of Notre Dame,college
+norwichvt,Norwich University,college
+northwood,Northwood University,college
+norleans,University of New Orleans,college
+norfolkst,Norfolk State University,college
+nmstate,New Mexico State University,college
+nmsouth,College of the Southwest,college
+nmnmjco,New Mexico Junior College,college
+nmmilin,New Mexico Military Institute,college
+nmhighland,New Mexico Highlands University,college
+nmexico,University of New Mexico,college
+nkentucky,Northern Kentucky University,college
+njupsal,Upsala College,college
+njmiddl,Middlesex County Community College,college
+njmerce,Mercer County Community College,college
+njcente,Centenary College,college
+njccmor,County College of Morris,college
+njcamde,Camden County College,college
+njbrook,Brookdale Community College,college
+njborde,Bordentown Military Institute,college
+niowa,University of Northern Iowa,college
+nillinois,Northern Illinois University,college
+nicholls,Nicholls State University,college
+niagara,Niagara University,college
+nflorida,University of North Florida,college
+newyorku,New York University,college
+newhaven,University of New Haven,college
+newhamp,University of New Hampshire,college
+newberry,Newberry College,college
+nevada,University of Nevada-Reno,college
+nepersh,John J Pershing College,college
+neillinois,Northeastern Illinois University,college
+nebraska,University of Nebraska at Lincoln,college
+nebomaha,University of Nebraska at Omaha,college
+nebkearney,University of Nebraska at Kearney,college
+neastern,Northeastern University,college
+ndstate,North Dakota State University,college
+ncweave,Weaver College,college
+ncstate,North Carolina State University,college
+ncstand,St. Andrews Presbyterian College,college
+ncruthe,Rutherford College,college
+ncpitcc,Pitt Community College,college
+ncolorado,University of Northern Colorado,college
+ncmarsh,Mars Hill College,college
+nclouis,Louisburg College,college
+ncbreva,Brevard College,college
+ncat,North Carolina A&T State University,college
+navy,United States Naval Academy,college
+narizona,Northern Arizona University,college
+nalabama,University of North Alabama,college
+muskingum,Muskingum College,college
+murrayst,Murray State University,college
+muhlenberg,Muhlenberg College,college
+mtvernnaz,Mount Vernon Nazarene University,college
+mtunionoh,Mount Union College,college
+mtstmarys,Mount St. Mary's University,college
+mtolive,Mount Olive College,college
+mtennst,Middle Tennessee State University,college
+mstupel,Tupelo Military Institute,college
+mspearl,Pearl River Community College,college
+msnwmcc,Northwest Mississippi Community College,college
+msmerid,Meridian Community College,college
+msmdcco,Mississippi Delta Community College,college
+msitawa,Itawamba Community College,college
+msholme,Holmes Community College,college
+mshinds,Hinds Community College,college
+msgcmac,Gulf Coast Military Academy,college
+mseccco,East Central Community College,college
+mscopia,Copiah-Lincoln Community College,college
+mscollege,Mississippi College,college
+mryvilletn,Maryville College,college
+mrningside,Morningside College,college
+movalley,Missouri Valley College,college
+mothree,Three Rivers Community College,college
+motarki,Tarkio College,college
+mosouthern,Missouri Southern State University,college
+morehead,Morehead State University,college
+montreatnc,Montreat College,college
+montevallo,University of Montevallo,college
+monroecc,Monroe Community College,college
+monmouth,Monmouth University,college
+momaple,Maple Woods Community College,college
+molongv,Longview Community College,college
+mojeffe,Jefferson College,college
+mofores,"St. Louis Community College, Forest Park Campus",college
+moeastc,East Central College,college
+modrury,Drury University,college
+mocrowd,Crowder College,college
+moconco,Concordia Seminary-St. Louis,college
+mobileal,University of Mobile,college
+mntclairst,Montclair State University,college
+mnparke,Parker College,college
+mnnorma,Normandale Community College,college
+mnmorris,"University of Minnesota, Morris",college
+mit,Massachusetts Institute of Technology,college
+mistcla,St. Clair County Community College,college
+missst,Mississippi State University,college
+missouri,University of Missouri Columbia,college
+mioakla,Oakland Community College,college
+minnesota,University of Minnesota,college
+mimacom,Macomb Community College,college
+millsapsms,Millsaps College,college
+millikin,Millikin University,college
+milligantn,Milligan College,college
+mikalam,Kalamazoo Valley Community College,college
+mihenry,Henry Ford Community College,college
+migrand,Grand Rapids Community College,college
+migocco,Glen Oaks Community College,college
+middlbryvt,Middlebury College,college
+michiganst,Michigan State University,college
+michigan,University of Michigan,college
+miamioh,Miami University of Ohio,college
+miamifl,University of Miami,college
+miamidade,Miami-Dade College,college
+mewestb,Westbrook College,college
+mestjos,St. Joseph's College,college
+messiah,Messiah College,college
+mesast,Mesa State College,college
+mericke,Ricker College,college
+mercyhurst,Mercyhurst College,college
+mercer,Mercer University,college
+meramec,"St. Louis Community College, Meramec Campus",college
+memphis,University of Memphis,college
+mdstjoh,St. John's College,college
+mdrockh,Rock Hill College,college
+mdmontg,"Montgomery College, Rockville Campus",college
+mdmdbal,University of Maryland Baltimore,college
+mdhager,Hagerstown Community College,college
+mdgarre,Garrett Community College,college
+mdcolsm,College of Southern Maryland,college
+mdcecil,Cecil Community College,college
+mdbalti,University of Baltimore,college
+mdbalcc,Baltimore City Community College,college
+mdaacco,Anne Arundel Community College,college
+mcneese,McNeese State University,college
+mcmgccc,Mississippi Gulf Coast Community College,college
+mcdaniel,McDaniel College,college
+mastersca,The Master's College,college
+masslowell,University of Massachusetts Lowell,college
+maryland,University of Maryland,college
+maryhrdbay,University of Mary Hardin-Baylor,college
+marshall,Marshall University,college
+marquette,Marquette University,college
+mariettaoh,Marietta College,college
+maquins,Quinsigamond Community College,college
+mansfield,Mansfield University of Pennsylvania,college
+manscco,North Shore Community College,college
+mankatost,"Minnesota State University, Mankato",college
+manhattan,Manhattan College,college
+mamiddl,Middlesex Community College,college
+mamassa,Massasoit Community College,college
+malowete,Lowell Technological Institute,college
+maine,University of Maine at Orono,college
+madeajc,Dean College,college
+macollege,Massachusetts College of Liberal Arts,college
+macmurryil,MacMurray College,college
+lynchbrgva,Lynchburg College,college
+lutheria,Luther College,college
+lubbchrist,Lubbock Christian University,college
+lsu,Louisiana State University,college
+loyolano,Loyola University New Orleans,college
+loyolamd,Loyola College in Maryland,college
+loyolamary,Loyola Marymount University,college
+loyolachi,Loyola University Chicago,college
+louisville,University of Louisville,college
+lorasia,Loras College,college
+longwoodva,Longwood University,college
+longisland,"Long Island University, Brooklyn Campus",college
+longbeach,California State University Long Beach,college
+lockhaven,Lock Haven University of Pennsylvania,college
+lipscomb,Lipscomb University,college
+linfieldor,Linfield College,college
+lincolnmem,Lincoln Memorial University,college
+lincolnlandcc,Lincoln Land Community College,college
+liberty,Liberty University,college
+lewisil,Lewis University,college
+lewclarkst,Lewis-Clark State College,college
+lewclarkor,Lewis and Clark College,college
+lenoirrhyn,Lenoir-Rhyne College,college
+lemoyne,LeMoyne College,college
+lehigh,Lehigh University,college
+lebvalley,Lebanon Valley College,college
+laverneca,University of La Verne,college
+latech,Louisiana Tech University,college
+lasalle,LaSalle University,college
+lanecol,Lane College,college
+lambuthtn,Lambuth University,college
+lamar,Lamar University,college
+lakeforest,Lake Forest College,college
+lafayette,Lafayette College,college
+ladelga,Delgado Community College,college
+lacollege,Louisiana College,college
+kywkycc,West Kentucky Community and Technical College,college
+kywesleyan,Kentucky Wesleyan College,college
+kybella,Bellarmine College,college
+kutztown,Kutztown University of Pennsylvania,college
+ksstmaC,St. Mary's College,college
+kspratt,Pratt Community College,college
+kslabet,Labette Community College,college
+kskccco,Kansas City Kansas Community College,college
+ksjohns,Johnson County Community College,college
+kshutch,Hutchinson Community College,college
+ksgarde,Garden City Community College,college
+ksftsco,Fort Scott Community College,college
+kscowle,Cowley County Community College,college
+ksbarto,Barton County Community College,college
+knoxil,Knox College,college
+kenyonoh,Kenyon College,college
+kentucky,University of Kentucky,college
+kentst,Kent State University,college
+kennesawst,Kennesaw State University,college
+kansasst,Kansas State University,college
+kansas,University of Kansas,college
+kalamazoo,Kalamazoo College,college
+juniatapa,Juniata College,college
+johnshpkns,Johns Hopkins University,college
+johnbrwnar,John Brown University,college
+jksonvilst,Jacksonville State University,college
+jamesmad,James Madison University,college
+jacksonvil,Jacksonville University,college
+jacksonst,Jackson State University,college
+ithacany,Ithaca College,college
+iowast,Iowa State University,college
+iowa,University of Iowa,college
+iona,Iona College,college
+invince,Vincennes University,college
+indpolis,University of Indianapolis,college
+indianast,Indiana State University,college
+indianapa,Indiana University of Pennsylvania,college
+indiana,Indiana University-Bloomington,college
+inconco,Concordia Theological Seminary,college
+incante,Canterbury College,college
+ilwesleyan,Illinois Wesleyan University,college
+ilwabas,Wabash Valley College,college
+iltruma,Harry S Truman College,college
+iltrito,Triton College,college
+ilswijc,Southwestern Illinois College,college
+ilstvia,St. Viator College,college
+ilssjco,South Suburban College,college
+ilshurt,Shurtleff College,college
+ilseijc,Southeastern Illinois College,college
+ilparkl,Parkland College,college
+ilolney,Olney Central College,college
+ilmount,Mount Morris College,college
+ilmorai,Moraine Valley Community College,college
+illomba,Lombard College,college
+illogan,John A Logan College,college
+illinoisst,Illinois State University,college
+illinois,University of Illinois at Urbana-Champaign,college
+illinco,Lincoln College,college
+illewis,Lewis & Clark Community College,college
+illchicago,University of Illinois at Chicago,college
+illakel,Lake Land College,college
+ilkishw,Kishwaukee College,college
+ilkenne,Kennedy-King College,college
+ilkaska,Kaskaskia College,college
+ilkanka,Kankakee Community College,college
+ilharpe,William Rainey Harper College,college
+ildixon,Dixon College,college
+ilcollege,Illinois College,college
+ilcenjc,Illinois Central College,college
+ilaugus,Augustana College,college
+idnidjc,North Idaho College,college
+idcosid,College of Southern Idaho,college
+idbyuid,Brigham Young University-Idaho,college
+idaho,University of Idaho,college
+iawesleyan,Iowa Wesleyan College,college
+iawescc,Iowa Western Community College,college
+iasimps,Simpson College,college
+iaseccs,"Southeastern Iowa Community College, Keokuk Campus",college
+iaparso,Parsons College,college
+iakirkw,Kirkwood Community College,college
+iaindia,Indian Hills Community College,college
+iahighl,Highland Park College,college
+iaellsw,Ellsworth College,college
+iadmacc,Des Moines Area Community College,college
+iadesmo,Des Moines University,college
+huntercuny,"Hunter College, The City University of New York",college
+humboldtst,Humboldt State University,college
+howrdpayne,Howard Payne University,college
+howard,Howard University,college
+houston,University of Houston,college
+houstnbapt,Houston Baptist University,college
+hopemi,Hope College,college
+holycross,College of the Holy Cross,college
+hofstra,Hofstra University,college
+hobartny,Hobart and William Smith Colleges,college
+hiramoh,Hiram College,college
+hillsdale,Hillsdale College,college
+highpoint,High Point University,college
+hendrsonst,Henderson State University,college
+hendrixar,Hendrix College,college
+hawaiipac,Hawaii Pacific University,college
+hawaiihilo,University of Hawaii at Hilo,college
+hawaii,University of Hawaii at Manoa,college
+haskellks,Haskell Indian Nations University,college
+harvard,Harvard University,college
+hartwickny,Hartwick College,college
+hartford,University of Hartford,college
+hardinsimm,Hardin-Simmons University,college
+harding,Harding University,college
+hampsydney,Hampden-Sydney College,college
+hamlinemn,Hamline University,college
+guilfordnc,Guilford College,college
+grvalleyst,Grand Valley State University,college
+grovecity,Grove City College,college
+grossmont,Grossmont College,college
+grinnellia,Grinnell College,college
+grcanyon,Grand Canyon University,college
+grambling,Grambling State University,college
+gonzaga,Gonzaga University,college
+glenvilst,Glenville State College,college
+gettysburg,Gettysburg College,college
+georgiasou,Georgia Southern University,college
+georgia,University of Georgia,college
+georgewash,George Washington University,college
+georgetown,Georgetown University,college
+georgemas,George Mason University,college
+georgefox,George Fox University,college
+genevapa,Geneva College,college
+gatech,Georgia Institute of Technology,college
+gannon,Gannon University,college
+gamiddl,Middle Georgia College,college
+gagpjco,Georgia Perimeter College,college
+gacoast,Coastal Georgia Community College,college
+furman,Furman University,college
+fresnost,California State University Fresno,college
+freedhrdmn,Freed-Hardeman University,college
+frankmarsh,Franklin and Marshall College,college
+franklinin,Franklin College,college
+fordham,Fordham University,college
+flvalen,Valencia Community College,college
+fltech,Florida Institute of Technology,college
+fltalla,Tallahassee Community College,college
+flstpet,St. Petersburg College,college
+flsouthern,Florida Southern College,college
+flsjrcc,St. Johns River Community College,college
+flsanta,Santa Fe Community College,college
+flpolkc,Polk Community College,college
+flpensa,Pensacola Junior College,college
+flpbaun,Palm Beach Atlantic University,college
+flpasco,Pasco-Hernando Community College,college
+flpalme,Palmer College,college
+floridast,Florida State University,college
+floridaam,Florida Agricultural and Mechanical University,college
+florida,University of Florida,college
+flnwfsc,Northwest Florida State College,college
+flnovas,Nova Southeastern University,college
+flnfcco,North Florida Community College,college
+flmdwjc,"Miami-Dade College, Wolfson Campus",college
+flmdnjc,"Miami-Dade College, North Campus",college
+flmdkjc,"Miami-Dade College, Kendall Campus",college
+flmanat,"State College of Florida, Manatee-Sarasota",college
+flinternat,Florida International University,college
+flindia,Indian River Community College,college
+flhills,Hillsborough Community College,college
+flgulfc,Florida Gulf Coast University,college
+flgccco,Gulf Coast Community College,college
+flgateway,Florida Gateway College,college
+flflajc,Florida College,college
+flediso,Edison College,college
+fldayto,Daytona Beach Community College,college
+flchipo,Chipola College,college
+flcentr,Central Florida Community College,college
+flbrowa,Broward Community College,college
+flbreva,Brevard Community College,college
+flbarry,Barry University,college
+flatlantic,Florida Atlantic University,college
+flagler,Flagler College,college
+ferrumva,Ferrum College,college
+ferrisst,Ferris State University,college
+fayetvilst,Fayetteville State University,college
+fairldick,"Fairleigh Dickinson University, Metropolitan Campus",college
+fairfield,Fairfield University,college
+evansville,University of Evansville,college
+eutah,College of Eastern Utah,college
+etennst,East Tennessee State University,college
+estroud,East Stroudsburg University of Pennsylvania,college
+erskine,Erskine College,college
+emporiast,Emporia State University,college
+emoryhenry,Emory and Henry College,college
+emichigan,Eastern Michigan University,college
+elon,Elon University,college
+elizbthtwn,Elizabethtown College,college
+ekentucky,Eastern Kentucky University,college
+eillinois,Eastern Illinois University,college
+edinboro,Edinboro University of Pennsylvania,college
+econnst,Eastern Connecticut State University,college
+eckerd,Eckerd College,college
+ecentralok,East Central University,college
+ecarolina,East Carolina University,college
+duquesne,Duquesne University,college
+duke,Duke University,college
+dubuque,University of Dubuque,college
+drake,Drake University,college
+dominican,Dominican College,college
+dickinson,Dickinson College,college
+detroit,University of Detroit Mercy,college
+denver,University of Denver,college
+denisonoh,Denison University,college
+deltast,Delta State University,college
+delawarest,Delaware State University,college
+delaware,University of Delaware,college
+dedelaw,Delaware Technical and Community College,college
+debrand,Brandywine Junior College,college
+dayton,University of Dayton,college
+daviselkins,Davis and Elkins College,college
+davidson,Davidson College,college
+dartmouth,Dartmouth College,college
+dallasbapt,Dallas Baptist University,college
+cwashngton,Central Washington University,college
+cumbrlndtn,Cumberland University,college
+ctnorwa,Norwalk Community College,college
+ctmitch,Mitchell College,college
+ctconap,University of Connecticut at Avery Point,college
+cshayward,California State University East Bay,college
+csdomhills,California State University Dominguez Hills,college
+crngmellon,Carnegie Mellon University,college
+creighton,Creighton University,college
+crdstritch,Cardinal Stritch University,college
+cotrini,Trinidad State Junior College,college
+cornellia,Cornell College,college
+cornell,Cornell University,college
+concrdiatx,Concordia University at Austin,college
+concrdiamn,Concordia University-St. Paul,college
+concordny,Concordia College-Bronxville,college
+columbia,Columbia University,college
+coloradost,Colorado State University,college
+colorado,University of Colorado,college
+colgate,Colgate University,college
+colbyme,Colby College,college
+colamar,Lamar Community College,college
+coastcar,Coastal Carolina University,college
+cncrdiacol,Concordia College-Moorhead,college
+cmissouri,University of Central Missouri,college
+cmichigan,Central Michigan University,college
+clevst,Cleveland State University,college
+clemson,Clemson University,college
+clarksonny,Clarkson University,college
+clarion,Clarion University of Pennsylvania,college
+citadel,The Citadel,college
+cincy,University of Cincinnati,college
+chicost,California State University Chico,college
+chicago,University of Chicago,college
+charlsouth,Charleston Southern University,college
+charlotte,University of North Carolina at Charlotte,college
+charleswv,University of Charleston,college
+charleston,College of Charleston,college
+chapmanca,Chapman University,college
+cflorida,University of Central Florida,college
+centreky,Centre College,college
+centralst,Central State University,college
+centok,University of Central Oklahoma,college
+centenary,Centenary College of Louisiana,college
+ccri,Community College of Rhode Island,college
+cconnst,Central Connecticut State University,college
+cawvjco,West Valley College,college
+cawlajc,West Los Angeles College,college
+cawhjco,West Hills College,college
+caventu,Ventura College,college
+catholic,Catholic University of America,college
+catawba,Catawba College,college
+catafjc,Taft College,college
+casrjco,Santa Rosa Junior College,college
+casmjco,Santa Monica College,college
+casjdjc,San Joaquin Delta College,college
+casjcco,San Jose City College,college
+casiski,College of the Siskiyous,college
+casierr,Sierra College,college
+cashast,Shasta College,college
+casfcco,City College of San Francisco,college
+casewestrn,Case Western Reserve University,college
+casequo,College of the Sequoias,college
+casdmjc,San Diego Mesa College,college
+casbvjc,San Bernardino Valley College,college
+casbcco,Santa Barbara City College,college
+casajco,Santa Ana College,college
+casaddl,Saddleback College,college
+casacra,Sacramento City College,college
+carthagewi,Carthage College,college
+carsnewm,Carson-Newman College,college
+carkansas,University of Central Arkansas,college
+carivcc,Riverside Community College,college
+carioho,Rio Hondo College,college
+careedl,Reedley College,college
+caredwo,College of the Redwoods,college
+capierc,Los Angeles Pierce College,college
+capasad,Pasadena City College,college
+capalom,Palomar College,college
+caorang,Orange Coast College,college
+camsjjc,Mount San Jacinto College,college
+camsajc,Mount San Antonio College,college
+campjco,Monterey Peninsula College,college
+campbell,Campbell University,college
+camoorp,Moorpark College,college
+camodes,Modesto Junior College,college
+camissi,Mission College,college
+camirac,MiraCosta College,college
+camerri,Merritt College,college
+cameronok,Cameron University,college
+camerce,Merced College,college
+camenlo,Menlo College,college
+camendo,Mendocino College,college
+camarin,College of Marin,college
+calutheran,California Lutheran University,college
+calstnorth,California State University Northridge,college
+calstla,California State University Los Angeles,college
+calstfull,California State University Fullerton,college
+calpolypom,"California Polytechnic State University, Pomona",college
+calpoly,"California Polytechnic State University, San Luis Obispo",college
+calobcc,Long Beach City College,college
+calipa,California University of Pennsylvania,college
+california,"University of California, Berkeley",college
+calavco,Los Angeles Valley College,college
+calasse,Lassen College,college
+calaney,Laney College,college
+calacco,Los Angeles City College,college
+cahartn,Hartnell College,college
+caharbo,Los Angeles Harbor College,college
+cagolde,Golden West College,college
+caglend,Glendale Community College,college
+cagavil,Gavilan College,college
+cafulle,Fullerton College,college
+cafrecc,Fresno City College,college
+cafooth,Foothill College,college
+cafeath,Feather River College,college
+caelcam,El Camino College,college
+caelajc,East Los Angeles College,college
+cadiabl,Diablo Valley College,college
+cadeanz,DeAnza College,college
+cacypre,Cypress College,college
+cacuest,Cuesta College,college
+cacsmat,College of San Mateo,college
+cacosum,Cosumnes River College,college
+cacontr,Contra Costa College,college
+cacompt,Compton Community College,college
+cacitru,Citrus College,college
+cachaff,Chaffey College,college
+cachabo,Chabot College,college
+cacerri,Cerritos College,college
+cacanyo,College of the Canyons,college
+cacanad,Canada College,college
+cacabri,Cabrillo College,college
+cabutte,Butte College,college
+cabarst,Barstow Community College,college
+cabakjc,Bakersfield College,college
+caantel,Antelope Valley College,college
+caameri,American River College,college
+byu,Brigham Young University,college
+butler,Butler University,college
+buenavista,Buena Vista University,college
+bucknell,Bucknell University,college
+bryant,Bryant College,college
+brown,Brown University,college
+brklyncuny,"Brooklyn College, The City University of New York",college
+bridgwtrst,Bridgewater State College,college
+bridgeport,University of Bridgeport,college
+brewparker,Brewton-Parker College,college
+brdgwatrva,Bridgewater College,college
+brandeisma,Brandeis University,college
+bradley,Bradley University,college
+bowlgreen,Bowling Green State University,college
+bowdoinme,Bowdoin College,college
+bostonuniv,Boston University,college
+bostoncoll,Boston College,college
+boisest,Boise State University,college
+bloomsburg,Bloomsburg University of Pennsylvania,college
+blackbrnil,Blackburn College,college
+birmsouth,Birmingham-Southern College,college
+biolaca,Biola University,college
+bethcook,Bethune-Cookman College,college
+bethanywv,Bethany College,college
+benedctnks,Benedictine College,college
+beloitwi,Beloit College,college
+belmontab,Belmont Abbey College,college
+belmont,Belmont University,college
+baylor,Baylor University,college
+batesme,Bates College,college
+baruchcuny,Bernard M Baruch College,college
+bartonnc,Barton College,college
+ballst,Ball State University,college
+bakerks,Baker University,college
+baconeok,Bacone College,college
+azyavap,Yavapai College,college
+azweste,Arizona Western College,college
+azusapac,Azusa Pacific University,college
+azsouth,South Mountain Community College,college
+azscott,Scottsdale Community College,college
+azpimcc,Pima Community College,college
+azphoen,Phoenix College,college
+azmescc,Mesa Community College,college
+azcochi,Cochise Community College,college
+azcentr,Central Arizona College,college
+austinpeay,Austin Peay State University,college
+austincol,Austin College,college
+auburnmont,Auburn University at Montgomery,college
+auburn,Auburn University,college
+ashland,Ashland University,college
+arnorth,North Arkansas College,college
+armstratl,Armstrong Atlantic State University,college
+arktech,Arkansas Tech University,college
+arkmont,University of Arkansas at Monticello,college
+arkansasst,Arkansas State University,college
+arkansaslr,University of Arkansas at Little Rock,college
+arkansas,University of Arkansas,college
+arizonast,Arizona State University,college
+arizona,University of Arizona,college
+arftsmi,University of Arkansas-Fort Smith,college
+aquinasmi,Aquinas College,college
+appalst,Appalachian State University,college
+andersonsc,Anderson College,college
+amherstma,Amherst College,college
+amerintl,American International University,college
+american,American University,college
+alverniapa,Alvernia College,college
+alsuscc,Southern Union State Community College,college
+alnorth,Northwest-Shoals Community College,college
+almario,Marion Military Institute,college
+almami,Alma College,college
+allegheny,Allegheny College,college
+aljeffd,Jefferson Davis Community College,college
+algadsd,Gadsden State Community College,college
+alfscco,Faulkner State College,college
+alfaulk,Faulkner University,college
+alenter,Enterprise-Ozark Community College,college
+alchatt,Chattahoochee Valley Community College,college
+alcalho,Calhoun Community College,college
+albevil,Bevill State Community College,college
+alabama,University of Alabama,college
+akron,University of Akron,college
