@@ -176,8 +176,7 @@ Part 3: Spatial DH
 -   2017-10-20: Assignment 2 - Text Analysis Assignment
 
 -   2017-10-23: Spatial History 
-
-   -   Bodenhamer, David, [“Beyond GIS: Geospatial Technologies and the
+    -   Bodenhamer, David, [“Beyond GIS: Geospatial Technologies and the
         Future of History.”](https://github.com/introdh2016/other/blob/master/BeyondGIS.pdf) p. 1-13. History and GIS: Epistomologies,
         Considerations and Reflections. Springer, 2013.  
 
@@ -187,8 +186,7 @@ Part 3: Spatial DH
         15, 2010.](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=23)
         
     -   Explore [American Panorama](http://dsl.richmond.edu/panorama/)
-
- -   [Crampton, Jeremy. Mapping: A Critical Introduction to
+    -   [Crampton, Jeremy. Mapping: A Critical Introduction to
         Cartography and GIS. Wiley-Blackwell, 2010.](https://github.com/introdh2016/other)
 
 
